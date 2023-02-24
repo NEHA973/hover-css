@@ -1,0 +1,120 @@
+* {
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+.sub-class {
+    display: flex;
+    margin: 20px;
+
+}
+
+.a {
+    display: flex;
+    border: 2px solid rgb(25, 80, 25);
+    height: 50px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(25, 80, 25);
+    margin: 5px;
+}
+
+.b {
+    display: flex;
+    border: 2px solid rgb(13, 13, 240);
+    height: 50px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(13, 13, 240);
+    margin: 5px;
+
+}
+
+.c {
+    display: flex;
+    border: 2px solid rgb(219, 112, 18);
+    height: 50px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(219, 112, 18);
+    margin: 5px;
+
+}
+
+.d {
+    display: flex;
+    border: 2px solid rgb(242, 9, 9);
+    height: 50px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(242, 9, 9);
+    margin: 5px;
+}
+
+.e {
+    display: flex;
+    border: 2px solid rgb(198, 190, 190);
+    height: 50px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.second .a:hover {
+    background-color: rgb(25, 80, 25);
+    transform: scale(1.1);
+    color: aliceblue;
+}
+.thired .b:hover{
+    background-color:rgb(13, 13, 240) ;
+    transform: scale(1.1);
+    color: aliceblue;
+}
+.fourth .c:hover{
+    background-color: rgb(219, 112, 18);
+    transform: scale(1.1);
+    color: aliceblue;
+
+}
+.fifth .d:hover{
+    background-color: rgb(242, 9, 9);
+    transform: scale(1.1);
+    color: aliceblue;
+}
+.sixth .e:hover{
+    background-color: rgb(198, 190, 190);
+    transform: scale(1.1);
+
+    
+}
+.second {
+    display: flex;
+    margin: 20px;
+}
+
+.thired {
+    display: flex;
+    margin: 20px;
+}
+
+
+.fourth {
+    display: flex;
+    margin: 20px;
+}
+
+.fifth {
+    display: flex;
+    margin: 20px;
+}
+
+.sixth {
+    display: flex;
+    margin: 20px;
+}
+ 
